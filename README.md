@@ -1,4 +1,4 @@
 Vroom
 =====
 
-OBD-II Communication Program for Android
+Vroom is an OBD-II Communication Program written for the Android operating system.
